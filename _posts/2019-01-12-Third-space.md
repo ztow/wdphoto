@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "如何创造适合工作和思考的第三空间"
-subtitle: "111"
-author: "ztow"
+title: "程序员中的梦想家"
+subtitle: "Dreamers among programmers"
+author: "Hux"
 header-img: "img/post-bg-dreamer.jpg"
 header-mask: 0.4
 tags:
-  - 第三空间
-- 工作
+  - Facebook
   - 生活
 ---
 
