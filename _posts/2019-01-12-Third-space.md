@@ -8,6 +8,7 @@ header-mask: 0.4
 tags:
   - Facebook
   - 生活
+- 工作
 ---
 
 ## 如何创造适合工作和思考的第三空间
