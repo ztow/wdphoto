@@ -1,14 +1,17 @@
 ---
 layout: post
-title: “ztow.test”
-subtitle: 'Using Vim with non-english input method'
-author: "Hux"
+title: “如何创造适合工作和思考的第三空间”
+subtitle: ''
+author: “ztow”
 header-style: text
+header-img: "img/post-bg-alitrip.jpg"
 tags:
   - 第三空间
+- 工作
 ---
 
 ## 如何创造适合工作和思考的第三空间
+
 > 第一空间：居住环境
 > 第二空间：工作环境
 > 第三空间：社交、购物、休闲等除上述两种意外的活动时的空间
