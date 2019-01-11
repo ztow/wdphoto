@@ -1,8 +1,8 @@
 ---
 layout: post
-title: “如何创造适合工作和思考的第三空间”
-subtitle: ''
-author: “ztow”
+title: "如何创造适合工作和思考的第三空间"
+subtitle: ""
+author: "ztow"
 header-style: text
 header-img: "img/post-bg-alitrip.jpg"
 tags:
