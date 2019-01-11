@@ -1,10 +1,6 @@
 # 丸子汤
 
-### [看看我的Blog &rarr;](ztow.me)
-
-![](http://www.ztow.me/img/bijiasuo.jpg)
-
-
+### ztow.me
 
 ## 我是谁?
 
