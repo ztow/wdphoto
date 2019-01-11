@@ -2,7 +2,7 @@
 
 ### [看看我的Blog &rarr;](ztow.me)
 
-![](http://www.ztow.me/img/bijiasuo.jpeg)
+![](http://www.ztow.me/img/bijiasuo.jpg)
 
 
 
