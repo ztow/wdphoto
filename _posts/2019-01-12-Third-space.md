@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "程序员中的梦想家"
+title: "如何创造适合工作的第三空间"
 subtitle: "Dreamers among programmers"
 author: "Hux"
 header-img: "img/post-bg-dreamer.jpg"
