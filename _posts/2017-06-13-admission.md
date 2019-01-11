@@ -4,7 +4,7 @@ title: "而我，只想要一张入场券"
 subtitle: "是的，这篇文章看着就是他妈一条鸡汤文，实际上，我觉得不是，我真心觉得这应该是一根鸡腿，要是写着写着写水了，变成了鸡汤，请点赞"
 author: "ztow"
 header-style: text
-header-img: "img/home-bg.jpg"
+header-img: "img/post-bg-dreamer.jpg"
 tags:
   - Facebook
   - 生活
