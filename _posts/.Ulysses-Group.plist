@@ -398,6 +398,16 @@
 					<integer>36</integer>
 				</dict>
 			</dict>
+			<key>2017-06-13-admission.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>568913676.37780201</real>
+				<key>version</key>
+				<dict>
+					<key>b025c2abcce057b716a8e2269bbec4c69ad39584d2199b1d898f3947ddb139d4</key>
+					<integer>66</integer>
+				</dict>
+			</dict>
 			<key>2017-06-25-you-are-slaves.markdown</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -501,13 +511,13 @@
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>568904641.71153998</real>
+				<real>568913688.83238494</real>
 				<key>lastModification</key>
-				<real>568904641.71153998</real>
+				<real>568913688.83238494</real>
 				<key>version</key>
 				<dict>
 					<key>b025c2abcce057b716a8e2269bbec4c69ad39584d2199b1d898f3947ddb139d4</key>
-					<integer>44</integer>
+					<integer>68</integer>
 				</dict>
 			</dict>
 			<key>2018-10-06-vim-cn-im.md</key>
@@ -646,6 +656,9 @@
 			<string>2018-06-30-dreamer.md</string>
 		</array>
 		<array>
+			<string>2017-06-13-admission.md</string>
+		</array>
+		<array>
 			<string>2018-09-27-avoiding-success-at-all-cost.md</string>
 		</array>
 		<array>
@@ -664,7 +677,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b025c2abcce057b716a8e2269bbec4c69ad39584d2199b1d898f3947ddb139d4</key>
-			<integer>45</integer>
+			<integer>68</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
