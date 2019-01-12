@@ -81,7 +81,8 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "不抽象，我们就无法深入思考；<br/>不还原，我们就看不到本来面目。"
 sidebar-avatar: /img/about-my.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
+# Catalog settings
+catalog: true
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
