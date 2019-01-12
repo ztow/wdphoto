@@ -8,7 +8,13 @@ catalog: true
 header-mask: 0.4
 tags:
   - 生活
+  - 工作
+   - 第三空间
 ---
+  * 目录  
+{:toc #markdown-toc}
+
+
 
 # 如何创造适合工作和思考的第三空间
 
