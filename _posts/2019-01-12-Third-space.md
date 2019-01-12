@@ -3,7 +3,7 @@ layout: post
 title: "如何创造适合工作的第三空间"
 subtitle: "其实所谓第三空间是一个比较笼统的说法，涵盖的范围其实太广了，所以此篇文章的目的，在于如何创造适合工作和思考的第三空间。"
 author: "ztow"
-header-img: "img/post-bg-dreamer.jpg"
+header-img: "img/home-bg.jpg"
 header-mask: 0.4
 tags:
   - 生活
