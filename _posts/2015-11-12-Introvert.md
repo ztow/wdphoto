@@ -6,7 +6,8 @@ author: "ztow"
 header-img: "img/post-bg-Introvert.jpg"
 catalog: true
 tags:
-  - 时间
+  - 内向
+  - 
 ---
 ### 我想说
 社交这种在以人情为主的中国来看,其实是非常重要的一件事
