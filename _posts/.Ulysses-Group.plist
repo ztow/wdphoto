@@ -130,12 +130,25 @@
 					<integer>11</integer>
 				</dict>
 			</dict>
+			<key>2019-03-29-wanzidesktop-Alita.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>575515751.99563897</real>
+				<key>version</key>
+				<dict>
+					<key>b025c2abcce057b716a8e2269bbec4c69ad39584d2199b1d898f3947ddb139d4</key>
+					<integer>23</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
 		<array>
 			<string>2019-02-12-2019birthday.md</string>
+		</array>
+		<array>
+			<string>2019-03-29-wanzidesktop-Alita.md</string>
 		</array>
 		<array>
 			<string>2019-03-08-mcu10year.md</string>
@@ -183,7 +196,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>b025c2abcce057b716a8e2269bbec4c69ad39584d2199b1d898f3947ddb139d4</key>
-			<integer>12</integer>
+			<integer>24</integer>
 		</dict>
 	</dict>
 </dict>
