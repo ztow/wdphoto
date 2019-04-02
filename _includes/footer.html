@@ -4,7 +4,7 @@
 
 {% assign image_files = site.static_files | where: "desktop", true %}
 {% for myimage in image_files %}
-<div style=“margin:0 auto”>111<img src="{{ myimage.path }}" width="760px"></div>
+<div style=“margin:0 auto;border:1px solid #000;width:300px;height:100px”>222<img src="{{ myimage.path }}" width="760px"></div>
 <br>
 
 {% endfor %}
