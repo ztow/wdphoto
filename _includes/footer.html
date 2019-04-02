@@ -1,9 +1,9 @@
 <!-- Footer -->
 
 <!-- 图片循环示例 -->
-{% assign image_files = site.static_files | where: "image", true %}
+{% assign image_files = site.static_files | where: "image1", true %}
 {% for myimage in image_files %}
-<img src="{{ myimage.path }}" width="760px">
+<img src="{{ myimage.path }}" width="760px" padding=“15px”>
 {% endfor %}
 <!-- 图片循环示例 -->
 
