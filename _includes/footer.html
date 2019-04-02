@@ -1,4 +1,14 @@
 <!-- Footer -->
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+  {{ myimage.path }}
+{% endfor %}
+
+作者：GarLin
+链接：https://juejin.im/post/5b35b5e8e51d4558b64f3ab9
+来源：掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
 <footer>
     <div class="container">
         <div class="row">

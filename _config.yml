@@ -111,3 +111,11 @@ page-mathjax: false
 #        href: "http://mida.re/"
 #    },
 #]
+
+
+defaults:
+  - scope:
+      path: "/img"
+    values:
+      image: true
+
