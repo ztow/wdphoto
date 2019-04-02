@@ -15,4 +15,4 @@ tags:
 
 ![][image-1]
 
-[image-1]:	/img/post-img-April.jpg
+[image-1]:	/wzdesktop/post-img-April.jpg

@@ -17,5 +17,5 @@ tags:
 
 ![][image-2]
 
-[image-1]:	/img/post-img-Alita1.jpg
-[image-2]:	/img/post-img-Alita2.jpg
+[image-1]:	/wzdesktop/post-img-Alita1.jpg
+[image-2]:	/wzdesktop/post-img-Alita2.jpg
