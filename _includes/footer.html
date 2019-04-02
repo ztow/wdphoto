@@ -1,10 +1,12 @@
 <!-- Footer -->
 
 <!-- 图片循环示例 -->
+<div style=“position: absolute; top: 50%; left: 50%;”>
 {% assign image_files = site.static_files | where: "desktop", true %}
 {% for myimage in image_files %}
 <img src="{{ myimage.path }}" width="760px">
 <br>
+</div>
 {% endfor %}
 <!-- 图片循环示例 -->
 
