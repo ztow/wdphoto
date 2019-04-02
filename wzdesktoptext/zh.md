@@ -5,7 +5,7 @@
 
 {% assign image_files = site.static_files | where: "desktop", true %}
 {% for myimage in image_files %}
-<a href="{{ myimage.path }}" target="_blank"></a><img src="{{ myimage.path }}" width="760">
+<a href="{{ myimage.path }}" target="_blank"></a><img src="{{ myimage.path }}" width="760"></a>
 {% endfor %}
 
 
