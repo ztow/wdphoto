@@ -1,7 +1,7 @@
 <!-- Footer -->
 
 <!-- 图片循环示例 -->
-{% assign image_files = site.static_files | where: "wanzidesktop", true %}
+{% assign image_files = site.static_files | where: "desktop", true %}
 {% for myimage in image_files %}
 <img src="{{ myimage.path }}" width="760px" padding=“105px”>
 {% endfor %}

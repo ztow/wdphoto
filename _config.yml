@@ -117,5 +117,5 @@ defaults:
   - scope:
       path: "img"
     values:
-      image1: true
+      desktop: true
 
