@@ -13,29 +13,7 @@
 
 ---
 
-<div class="container">
-	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-			<!-- Tags (as filter) -->
-			<div id='tag_cloud' class="tags tags-sup js-tags">
-				<a class="tag-button--all" data-encode="">
-					Show All
-					<sup>{{site.posts.size}}</sup>
-				</a>
 
-				{% capture tags %}
-				{% for tag in site.tags %}
-				<a data-sort="{{ site.posts.size | minus: tag[1].size | prepend: '0000' | slice: -4, 4 }}"
-					data-encode="{{ tag[0] | strip | url_encode }}"
-					class="tag-button"
-					title="{{ tag[0] }}" rel="{{ tag[1].size }}">
-					{{ tag[0] }}
-					<sup>{{tag[1].size}}</sup>
-				</a>
-				{% endfor %}
-				{% endcapture %}
-        {{ tags | split:'</a>' | sort | join:'</a>' }}
-			</div>
 
             <!-- Article List -->
 			<div class="mini-post-list js-result d-none">
@@ -80,6 +58,3 @@
 					<hr>
 				</div>
 			{% endfor %}
-		</div>
-	</div>
-</div>
