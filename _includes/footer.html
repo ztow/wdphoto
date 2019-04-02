@@ -1,7 +1,7 @@
 <!-- Footer -->
 {% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
-<img src="{{ myimage.path }}">  {{ myimage.path }}
+<img src="{{ myimage.path }}" width="760px">  {{ myimage.path }}
 {% endfor %}
 
 作者：GarLin
