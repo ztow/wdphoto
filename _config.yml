@@ -115,7 +115,7 @@ page-mathjax: false
 
 defaults:
   - scope:
-      path: "wzdesktop"
+      path: "img"
     values:
-      desktop: true
+      image: true
 
