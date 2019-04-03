@@ -119,3 +119,5 @@ defaults:
     values:
       desktop: true
 
+
+theme: jekyll-theme-cayman
