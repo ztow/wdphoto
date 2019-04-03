@@ -1,11 +1,11 @@
 # Site settings
-title: ztow Blog
-SEOTitle: ztow Blog
+title: 温妮的摄影相册
+SEOTitle: 温妮的摄影相册
 header-img: img/post-bg-2015.jpg
-email: zhaotowei@gmail.com
-description: "我是个产品经理。 超三不四，喜吃不喜撑。"
-keyword: "ztow, 博客, 个人网站, 互联网, 产品人"
-url: "https://ztow.me"              # your host, for absolute URL
+email: 254585448@qq.com
+description: "我是个摄影师，我叫温妮。"
+keyword: "摄影,美食摄影,家庭摄影"
+url: "https://wdphoto.ztow.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     ztow
-zhihu_username:     zhaowei
+#weibo_username:     ztow
+#zhihu_username:     zhaowei
 #github_username:    huxpro
 #twitter_username:   huxpro
 #facebook_username:  huxpro
@@ -78,7 +78,7 @@ ga_domain: ztow.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "不抽象，我们就无法深入思考；<br/>不还原，我们就看不到本来面目。"
+sidebar-about-description: "用影像来记录生动的世界。"
 sidebar-avatar: /img/about-my.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Catalog settings
